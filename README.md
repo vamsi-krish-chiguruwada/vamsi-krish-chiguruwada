@@ -6,7 +6,7 @@ UI Specialist
 
 * 🌍  I'm based in INDIA
 * ✉️  You can contact me at [vamsichiguruwada@gmail.com](mailto:vamsichiguruwada@gmail.com)
-* 🧠  I'm learning Blockchain
+* 🧠  I'm learning Node & SSR
 * 🤝  I'm open to collaborating on React projects
 * ⚡  I work at Yash Technologies
 
