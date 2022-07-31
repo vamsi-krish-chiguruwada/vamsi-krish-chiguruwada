@@ -1,14 +1,14 @@
 Hi 👋 My name is Vamsi Chiguwuwada
 ==================================
 
-UI Developer
+UI Specialist
 ------------
 
 * 🌍  I'm based in INDIA
 * ✉️  You can contact me at [vamsichiguruwada@gmail.com](mailto:vamsichiguruwada@gmail.com)
 * 🧠  I'm learning Blockchain
 * 🤝  I'm open to collaborating on React projects
-* ⚡  I work at Msys Technologies
+* ⚡  I work at Yash Technologies
 
 ### Skills
 
