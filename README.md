@@ -1,15 +1,24 @@
-Hi 👋 My name is Vamsi Chiguwuwada
-==================================
+# Hi 👋 My name is Vamsi Chiguruwada  
+## UI Specialist | Frontend Developer  
 
-UI Specialist
-------------
+🚀 Passionate about crafting **intuitive, high-performance UI** experiences with modern web technologies.  
 
-* 🌍  I'm based in INDIA
-* ✉️  You can contact me at [vamsichiguruwada@gmail.com](mailto:vamsichiguruwada@gmail.com)
-* 🧠  I'm learning Node & SSR
-* 🤝  I'm open to collaborating on React projects
-* ⚡  I work at Yash Technologies
-
+### 💡 About Me  
+- 🌍 Based in **USA**  
+- 🖥 Specializing in **React, Next.js, and TailwindCSS**  
+- 🧠 Currently **learning Node.js & Server-Side Rendering (SSR)**  
+- 🎨 Interested in **UI/UX design, animations, and performance optimization**  
+- 🤝 Open to **collaborating on React & frontend projects**  
+- ✨ Love experimenting with **design systems, accessibility, and micro-interactions**
+  
+### 📬 Get in Touch  
+- ✉️ Email: [vamsichiguruwada@gmail.com](mailto:vamsichiguruwada@gmail.com)
+  
+### 🛠 Tech Stack  
+- **Frontend:** React.js, Next.js, TailwindCSS, TypeScript, Redux, Framer Motion  
+- **Backend (Learning):** Node.js, Express, API Development  
+- **Tools & Platforms:** Figma, GitHub, Vercel, Netlify
+  
 ### Skills
 
 <p align="left">
